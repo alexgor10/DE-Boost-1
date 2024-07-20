@@ -1,0 +1,8 @@
+Flask
+requests
+nump
+pyarrow
+fastparquet
+pandas
+sqlalchemy
+psycopg2-binary
